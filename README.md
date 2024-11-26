@@ -31,6 +31,6 @@ Feel free to explore the repository, contribute, and reach out if you have any q
 ### Connect with Us
 
 - Fiverr: [Mastercom Co. on Fiverr](https://www.fiverr.com/mastercom_co)
-- Email: [info@mastercom.dev](info@mastercom.dev)
+- Email: [info@mastercom.dev](mailto:info@mastercom.dev)
 
 Thanks for visiting, and happy coding!
