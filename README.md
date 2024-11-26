@@ -4,7 +4,7 @@ We are a passionate and skilled group of developers who specialize in the **Qt f
 
 ## About Us
 
-Our team thrives on delivering reliable and efficient solutions using the **Qt framework**. With years of experience in both **Qt Widgets** and **Qt Quick/QML**, we handle projects ranging from desktop applications to embedded systems, ensuring high standards of performance and usability.
+Our team thrives on delivering reliable and efficient solutions using the **Qt framework**. With years of experience in **Qt Quick/QML**, we handle projects ranging from desktop applications to embedded systems, ensuring high standards of performance and usability.
 
 We primarily operate on **Fiverr**, where we offer our services to clients worldwide. However, we also accept direct orders for custom projects.
 
